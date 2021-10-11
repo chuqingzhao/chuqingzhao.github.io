@@ -4,8 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-![登记照2](https://user-images.githubusercontent.com/52275397/136735432-03975099-65d2-48e6-8c61-e16422be4168.JPG)
-img[alt=drawing] { width: 200px; }
+![登记照2](https://user-images.githubusercontent.com/52275397/136735432-03975099-65d2-48e6-8c61-e16422be4168.JPG=100x20)
 
 ## About Me
 
