@@ -1,5 +1,5 @@
 ---
-title:  "Advanced examples"
+title:  "Chuqing Zhao"
 mathjax: true
 layout: post
 categories: media
