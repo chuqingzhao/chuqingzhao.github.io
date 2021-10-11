@@ -4,9 +4,7 @@ mathjax: true
 layout: post
 categories: media
 ---
-
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
-
+![登记照2](https://user-images.githubusercontent.com/52275397/136735432-03975099-65d2-48e6-8c61-e16422be4168.JPG)
 
 ## About Me
 
