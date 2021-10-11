@@ -23,6 +23,7 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "cqzhao@uchicago.edu"}
   - {title: Github, icon: github, url: "https://github.com/chuqingzhao"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/chuqing-zhao-944324145/"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/ChuqingZhao"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 #comments:
