@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", file: "/resume/Chuqing_Zhao_s_CV.pdf"}
+  - {title: "CV", url: "https://github.com/chuqingzhao/chuqingzhao.github.io/blob/master/resume/Chuqing_Zhao_s_CV.pdf"}
   - {title: "About Me",file: "index.html"}
   - {title: "Research Projects", file: "/blog.md"}
 
