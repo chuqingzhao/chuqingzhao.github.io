@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "CV", url: "https://docs.google.com/document/d/1lTtwrnT0Hn2bzM2QUNFtVC9erJoiApxU0mK_Y8rISpQ/edit?userstoinvite=calebluzc08%40gmail.com&actionButton=1#"}
+  - {title: "CV", url: "https://github.com/chuqingzhao/chuqingzhao.github.io/blob/master/resume/Chuqing_Zhao_s_CV%20(4).pdf"}
   - {title: "About Me",file: "index.html"}
   - {title: "Research Projects", file: "/blog.md"}
 
